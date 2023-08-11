@@ -1,0 +1,67 @@
+// Online Java Compiler
+// Use this editor to write, compile and run your Java code online
+
+class HelloWorld {
+    public static void main(String[] args) {
+        String[] ids = {
+                   "64d6350c7e7b2cebf70d2b92"
+       ,"64d6350c7e7b2cebf70d2b93"
+       ,"64d6350c7e7b2cebf70d2b94"
+       ,"64d6350c7e7b2cebf70d2b95"
+       ,"64d6350c7e7b2cebf70d2b96"
+       ,"64d6350c7e7b2cebf70d2b97"
+       ,"64d6350c7e7b2cebf70d2b98"
+       ,"64d6350c7e7b2cebf70d2b99"
+       ,"64d6350c7e7b2cebf70d2b9a"
+       ,"64d6350c7e7b2cebf70d2b9b"
+       ,"64d6350c7e7b2cebf70d2b9c"
+       ,"64d6350c7e7b2cebf70d2b9d"
+       ,"64d6350c7e7b2cebf70d2b9e"
+       ,"64d6350c7e7b2cebf70d2b9f"
+       ,"64d6350c7e7b2cebf70d2ba0"
+       ,"64d6350c7e7b2cebf70d2ba1"
+       ,"64d6350c7e7b2cebf70d2ba2"
+       ,"64d6350c7e7b2cebf70d2ba3"
+       ,"64d6367d7e7b2cebf70ec36a"
+       ,"64d6367d7e7b2cebf70ec36b"
+       ,"64d6367d7e7b2cebf70ec36c"
+       ,"64d6367d7e7b2cebf70ec36d"
+       ,"64d6367d7e7b2cebf70ec36e"
+       ,"64d6367d7e7b2cebf70ec36f"
+       ,"64d6367d7e7b2cebf70ec370"
+       ,"64d6367d7e7b2cebf70ec371"
+       ,"64d6367d7e7b2cebf70ec372"
+       ,"64d6367d7e7b2cebf70ec373"
+       ,"64d6367d7e7b2cebf70ec374"
+       ,"64d6367d7e7b2cebf70ec375"
+       ,"64d6367d7e7b2cebf70ec376"
+       ,"64d6367d7e7b2cebf70ec377"
+       ,"64d6367d7e7b2cebf70ec378"
+       ,"64d6367d7e7b2cebf70ec379"
+       ,"64d6367d7e7b2cebf70ec37a"
+       ,"64d6367d7e7b2cebf70ec37b"
+       ,"64d6367d7e7b2cebf70ec37c"
+       ,"64d6367d7e7b2cebf70ec37d"
+       ,"64d6367d7e7b2cebf70ec37e"
+       ,"64d6367d7e7b2cebf70ec37f"
+       ,"64d6367d7e7b2cebf70ec380"
+       ,"64d6367d7e7b2cebf70ec381"
+       ,"64d6367d7e7b2cebf70ec382"
+       ,"64d6367d7e7b2cebf70ec383"
+       ,"64d6367d7e7b2cebf70ec384"
+       ,"64d6367d7e7b2cebf70ec385"
+       ,"64d6367d7e7b2cebf70ec386"
+       ,"64d6367d7e7b2cebf70ec387"
+       ,"64d6367d7e7b2cebf70ec388"
+       ,"64d6367d7e7b2cebf70ec389"
+       ,"64d6367d7e7b2cebf70ec38a"
+       ,"64d6367d7e7b2cebf70ec38b"
+       ,"64d6367d7e7b2cebf70ec38c"
+        };
+
+for (String id : ids) {
+            System.out.println("<url><loc>https://aptitudetracker.com/questions/"+id+"</loc><lastmod>2023-08-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>");
+        }
+        
+    }
+}
