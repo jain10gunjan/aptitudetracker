@@ -24,7 +24,6 @@
     "react-helmet": "^6.1.0",
     "react-hot-toast": "^2.4.0",
     "react-infinite-scroll-component": "^6.1.0",
-    "react-mathjax-preview": "^2.2.6",
     "react-modal": "^3.16.1",
     "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
