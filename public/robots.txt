@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aptitudetracker.com/sitemap.xml
+Sitemap: https://aptitudetracker.com/sitemapindex.xml
 
 
