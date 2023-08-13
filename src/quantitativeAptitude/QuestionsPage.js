@@ -108,7 +108,6 @@ console.log(chapterName);
       <section class="mt-20 text-gray-600 body-font">
         <div class="container mx-auto flex flex-col px-5 py-10 justify-center items-center">
           <div class="w-full md:w-2/3 flex flex-col mb-16">   
-            
             <div className="mb-8 overflow-x-auto scrolling-touch">
               <div className="flex border-b border-gray-200">
               <MathJaxContext>

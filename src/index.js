@@ -5,6 +5,7 @@ import App from './App';
 import './index.css';
 import QuestionsPage from './quantitativeAptitude/QuestionsPage';
 import LegacyPage from './quantitativeAptitude/LegacyPage';
+import PdfPage from './Components/PDF/PdfPage';
 
 ReactDOM.render(
   
@@ -13,6 +14,10 @@ ReactDOM.render(
   <Route path="/" element={<App />} />
 <Route path="/questions/:qid" element={<QuestionsPage />}/>
 <Route path="/:topic/questions/:qid" element={<LegacyPage />}/>
+<Route path="/pdf" element={<PdfPage />}/>
+
+
+
 
 </Routes>
     </BrowserRouter>,
